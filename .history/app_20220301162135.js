@@ -1,0 +1,1 @@
+var images = document.querySelectorAll('.image img');

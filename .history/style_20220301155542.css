@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background: #dadada;
+    overflow: hidden;
+}
+
+.wrapper {
+    width: 1200px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-position: center;
+    object-fit: cover;
+}
+
+.image {
+    width: 22%;
+}
